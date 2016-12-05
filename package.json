@@ -1,0 +1,23 @@
+{
+  "name": "simple-state",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbud/simple-state.git"
+  },
+  "keywords": [
+    "react",
+    "state"
+  ],
+  "author": "Valjean Clark III <valjeanbud@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vbud/simple-state/issues"
+  },
+  "homepage": "https://github.com/vbud/simple-state#readme"
+}
